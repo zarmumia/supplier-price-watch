@@ -1,0 +1,12 @@
+SUPPLIER: Golden Field Bakery Supply
+INVOICE: GF-1163
+DATE: 2026-10-02
+CURRENCY: USD
+Contact: orders@goldenfield.example · +1 (555) 010-2233
+ITEMS:
+SKU | Description | Unit | Qty | Unit price
+F-25 | Bread flour 25kg | bag | 6 | 96.60
+Y-01 | Dry yeast 500g | pack | 10 | 6.50
+S-01 | Sesame seeds 1kg | kg | 8 | 42.00
+FS | Fuel surcharge | delivery | 1 | 15.00
+SUBTOTAL: 1009.60

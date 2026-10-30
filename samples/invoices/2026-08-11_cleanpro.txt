@@ -1,0 +1,11 @@
+SUPPLIER: CleanPro Distribution
+INVOICE: CP-5521
+DATE: 2026-08-11
+CURRENCY: USD
+Contact: billing@cleanpro.example
+ITEMS:
+SKU | Description | Unit | Qty | Unit price
+DS-5 | Dish soap 5L | bottle | 4 | 54.00
+GL-M | Nitrile gloves M (100) | box | 6 | 29.00
+TB-60 | Trash bags 60L (50) | roll | 5 | 12.80
+SUBTOTAL: 454.00
